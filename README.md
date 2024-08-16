@@ -15,25 +15,24 @@ Python'u indirip kurmak için:
 
 ## python'un kurulumunu kontrol et
 Kurulumun başarılı olup olmadığını kontrol etmek için terminal ya da komut istemcisini açarak şu komutu yazın:
-
 ```bash
 python --version
-
-### 🛠️ gerekli paketler ve kurulum
+```
+## 🛠️ gerekli paketler ve kurulum
 - python
 - selenium
 - chromedriver-autoinstaller
 
-bu kod ile gerekli paketleri kurabilsiniz
+## bu kod ile gerekli paketleri kurabilsiniz
 
 ```bash
 pip install -r requirements.txt
+```
 
-
-### çalıştırmak
+## çalıştırmak
 console'dan hyperlane.py dosyasının olduğu dizinde olduğundan emin olduktan sonra
 ```bash
 python hyperlane.py
-
+```
 
 
