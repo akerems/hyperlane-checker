@@ -2,6 +2,8 @@
 
 # hyperlane checker - by akerems
 
+requirement.txt yüklememişim onu yükleyeceğim dostlar.
+
 ## 🚀 açıklama
 
 Bu python app'i ile istediğiniz miktarda cüzdanın; toplam TX sayısını (total tx), kaç farklı günde işlem yapıldığı (unique days) ve en son ne zaman TX attığınızı öğrenebilirsiniz.
