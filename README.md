@@ -3,6 +3,7 @@
 # hyperlane checker - by akerems
 
 requirement.txt yüklememişim onu yükleyeceğim dostlar.
+hazırlanıyor
 
 ## 🚀 açıklama
 
